@@ -5,9 +5,9 @@ AUT (Tehran Polytechnic).
 
 ## Project Description
 
-This project is basically a classification problem. Since we are dealing with
-images, we have decided to solve it with a convolutional neural network due to
-its abilities in image processing.
+This project deals with a classification problem. Since we are trying to
+classify images, we have decided to solve it with a convolutional neural network
+due to its abilities in image processing.
 
 ## Dataset
 

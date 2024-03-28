@@ -1,7 +1,7 @@
 # Defective Pump Impeller Detection Using a CNN
 
-This repository contains my project for the Artificial Intelligence course at
-AUT (Tehran Polytechnic).
+This repository contains the files of my project for the "Artificial
+Intelligence" course at Amirkabir University of Technology (Tehran Polytechnic).
 
 ## Project Description
 
